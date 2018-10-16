@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 翠波小筑
 
-You can use the [editor on GitHub](https://github.com/lishenxydlgzs/cbxz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这是我的个人博客网站，我给她取名叫做翠波小筑，其实什么特别的意思，主要是因为这是我给我现在住的房子取的名字。
 
 ### Markdown
 
