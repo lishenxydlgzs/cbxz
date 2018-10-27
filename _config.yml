@@ -26,6 +26,7 @@ github_username:  lishenxydlgzs
 
 # Build settings
 markdown: kramdown
+baseurl: /cbcx
 theme: minima
 plugins:
   - jekyll-feed
