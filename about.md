@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+这是我的个人博客，主要用来放一些个人的圣经读经心得，感悟随笔，时事评论等。这个博客的名字叫做“翠波小筑”，这是我给我现在住的位于Issaquah的房子取的名字。因为寒舍旁边树木林立，因此而得名。我曾为此屋赋诗一首
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+樱红杨绿白鸟争，
+碧水青山依小城。
+清风徐来翠波筑，
+高朋满座妙趣生。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+写的无非是小屋周围的环境，情趣不深，聊以纪念。
